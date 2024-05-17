@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.util.Random;
 public class abs {
     public static void main(String[] args){
-        
         Scanner scnr = new Scanner(System.in);
 
         // cat1.attack(cat2); // using sample atk method to show how the target thing would work
